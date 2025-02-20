@@ -5,7 +5,6 @@ My name is Bibek Maharjan
 * 🌍  I'm based in Kathmandu Nepal
 * ✉️  You can contact me at [bibekmaharjan12@gmail.com](mailto:bibekmaharjan12@gmail.com)
 
-<a href="https://github.com/bibekmaharjan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekmaharjan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Socials
 
